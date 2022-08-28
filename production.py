@@ -7,4 +7,7 @@ print('Hello world')
 production in the dev
 process2 master 
 process
+deploy to stagging env
+echo good job.
+Tested and accepted
 

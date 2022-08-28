@@ -11,4 +11,5 @@ deploy to stagging env
 echo good job.
 Tested and accepted
 #bug removed
+# The bugs are removed
 
